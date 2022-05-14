@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0628bfa-320f-43e3-ba23-589c59b13706" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="297FAJD8DjWCRjzPetLPDEGLbYa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpellingsApplication">
+    <configuration name="SpellingsApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spellings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fareed9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fareed9" />
+      <option name="MAIN_CLASS_NAME" value="com.fareed9.SpellingsApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellingsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spellings" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fareed9.SpellingsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpellingsApplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0628bfa-320f-43e3-ba23-589c59b13706" name="Default Changelist" comment="" />
+      <created>1652456071826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652456071826</updated>
+      <workItem from="1652456073073" duration="1016000" />
+      <workItem from="1652459103947" duration="14991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="78" key="#Project_Structure" timestamp="1652459111103">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state x="351" y="78" key="#Project_Structure/0.25.1440.782@0.25.1440.782" timestamp="1652459111103" />
+    <state x="564" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1652474161882">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state x="564" y="104" key="#com.intellij.ide.util.MemberChooser/0.25.1440.782@0.25.1440.782" timestamp="1652474161882" />
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom" timestamp="1652492084387">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom/0.25.1440.782@0.25.1440.782" timestamp="1652492084387" />
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom/0.25.1440.785@0.25.1440.785" timestamp="1652491873304" />
+    <state width="1398" height="197" key="GridCell.Tab.0.center" timestamp="1652492084385">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.0.center/0.25.1440.782@0.25.1440.782" timestamp="1652492084385" />
+    <state width="1398" height="197" key="GridCell.Tab.0.center/0.25.1440.785@0.25.1440.785" timestamp="1652491873300" />
+    <state width="1398" height="197" key="GridCell.Tab.0.left" timestamp="1652492084385">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.0.left/0.25.1440.782@0.25.1440.782" timestamp="1652492084385" />
+    <state width="1398" height="197" key="GridCell.Tab.0.left/0.25.1440.785@0.25.1440.785" timestamp="1652491873298" />
+    <state width="1398" height="197" key="GridCell.Tab.0.right" timestamp="1652492084386">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.0.right/0.25.1440.782@0.25.1440.782" timestamp="1652492084386" />
+    <state width="1398" height="197" key="GridCell.Tab.0.right/0.25.1440.785@0.25.1440.785" timestamp="1652491873302" />
+    <state width="1398" height="197" key="GridCell.Tab.1.bottom" timestamp="1652492084389">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.1.bottom/0.25.1440.782@0.25.1440.782" timestamp="1652492084389" />
+    <state width="1398" height="197" key="GridCell.Tab.1.bottom/0.25.1440.785@0.25.1440.785" timestamp="1652491873308" />
+    <state width="1398" height="197" key="GridCell.Tab.1.center" timestamp="1652492084388">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.1.center/0.25.1440.782@0.25.1440.782" timestamp="1652492084388" />
+    <state width="1398" height="197" key="GridCell.Tab.1.center/0.25.1440.785@0.25.1440.785" timestamp="1652491873307" />
+    <state width="1398" height="197" key="GridCell.Tab.1.left" timestamp="1652492084387">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.1.left/0.25.1440.782@0.25.1440.782" timestamp="1652492084387" />
+    <state width="1398" height="197" key="GridCell.Tab.1.left/0.25.1440.785@0.25.1440.785" timestamp="1652491873306" />
+    <state width="1398" height="197" key="GridCell.Tab.1.right" timestamp="1652492084388">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state width="1398" height="197" key="GridCell.Tab.1.right/0.25.1440.782@0.25.1440.782" timestamp="1652492084388" />
+    <state width="1398" height="197" key="GridCell.Tab.1.right/0.25.1440.785@0.25.1440.785" timestamp="1652491873307" />
+    <state x="416" y="131" width="670" height="676" key="search.everywhere.popup" timestamp="1652476796392">
+      <screen x="0" y="25" width="1440" height="782" />
+    </state>
+    <state x="416" y="131" width="670" height="676" key="search.everywhere.popup/0.25.1440.782@0.25.1440.782" timestamp="1652476796392" />
+  </component>
+</project>
